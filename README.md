@@ -19,7 +19,7 @@ This book covers the following exciting features:
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1783989181) today!
 
-<a href="https://prod.packtpub.com/in/big-data-and-business-intelligence/learning-postgresql?utm_source=github&utm_medium=repository&utm_campaign=9781783989188"><img src="https://prod.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b01781_learning20postgresql_.jpg" alt="https://www.packtpub.com/" border="5" /></a>
+<a href="https://prod.packtpub.com/in/big-data-and-business-intelligence/learning-postgresql?utm_source=github&utm_medium=repository&utm_campaign=9781783989188"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
