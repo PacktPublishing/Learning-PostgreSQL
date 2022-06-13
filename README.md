@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B01781?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Learning PostgreSQL
 
 <a href="https://prod.packtpub.com/in/big-data-and-business-intelligence/learning-postgresql?utm_source=github&utm_medium=repository&utm_campaign=9781783989188"><img src="https://prod.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b01781_learning20postgresql_.jpg" alt="Book Name" height="256px" align="right"></a>
